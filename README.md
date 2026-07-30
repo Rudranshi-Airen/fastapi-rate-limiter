@@ -61,10 +61,5 @@ The RedisRateLimiterMiddleware accepts the following parameters:
 
 Adjust the `limit` and `window` values according to your desired rate limiting requirements.
 
-## Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to open a new issue or submit a pull request on GitHub.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
